@@ -1,1 +1,1 @@
-print("You did it!")
+print(10)
